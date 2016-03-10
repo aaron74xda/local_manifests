@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Please do not manually edit this file-->
 <manifest>
-  <project name="Emotroid-Rom/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" revision="mm" />
-  <project name="Emotroid-Rom/android_device_samsung_trltexx" path="device/samsung/trltexx" remote="github" revision="mm" />
-  <project name="Emotroid-Rom/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="mm" />
-  <project name="Emotroid-Rom/emotion_cm_kernel_trlte" path="kernel/samsung/trlte" remote="github" revision="cm-13.0" />
-  <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="cm" revision="cm-13.0" />
-  <project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="cm" revision="cm-13.0" />
-  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="cm" revision="cm-13.0" />
-  <project name="CyanogenMod/android_external_stlport" path="external/stlport" remote="cm" revision="cm-13.0" />
-  <remove-project name="CyanogenMod/android_external_connectivity" />
-  <project name="CyanogenMod/android_external_connectivity" path="external/connectivity" remote="cm" revision="cm-13.0" />
+  <project branch="mm" name="Emotroid-Rom/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="emotroid" />
+  <project branch="mm" name="Emotroid-Rom/android_device_samsung_trltexx" path="device/samsung/trltexx" remote="emotroid" />
+  <project branch="mm" name="Emotroid-Rom/proprietary_vendor_samsung" path="vendor/samsung" remote="emotroid" />
+  <project branch="cm-13.0" name="Emotroid-Rom/emotion_cm_kernel_trlte" path="kernel/samsung/trlte" remote="emotroid_rom" />
+  <project branch="cm-13.0" name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="cm" />
+  <project branch="cm-13.0" name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="cm" />
+  <project branch="cm-13.0" name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="cm" />
+  <project branch="cm-13.0" name="CyanogenMod/android_external_stlport" path="external/stlport" remote="cm" />
 </manifest>
