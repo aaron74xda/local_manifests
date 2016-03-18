@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="Emotroid-Rom/android_device_samsung_trltexx" path="device/samsung/trltexx" remote="github" revision="mm" />
-  <project name="Emotroid-Rom/android_device_samsung_trltespr" path="device/samsung/trltexx" remote="github" revision="mm" />
+  <project name="Emotroid-Rom/android_device_samsung_trltespr" path="device/samsung/trltespr" remote="github" revision="mm" />
   <remove-project name="CyanogenMod/android_external_connectivity" />
   <project name="CyanogenMod/android_external_connectivity" path="external/connectivity" remote="cm" revision="cm-13.0" />
   <project branch="mm" name="Emotroid-Rom/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="emotroid" />
