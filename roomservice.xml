@@ -6,7 +6,7 @@
   <project name="CyanogenMod/android_external_connectivity" path="external/connectivity" remote="cm" revision="cm-13.0" />
   <project branch="mm" name="Emotroid-Rom/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="emotroid" />
   <project branch="mm" name="Emotroid-Rom/proprietary_vendor_samsung" path="vendor/samsung" remote="emotroid" />
-  <project branch="cm-13.0" name="Emotroid-Rom/emotion_cm_kernel_trlte" path="kernel/samsung/trlte" remote="emotroid_rom" />
+  <project branch="mm" name="Emotroid-Rom/emotion_cm_kernel_trlte" path="kernel/samsung/trlte" remote="emotroid" />
   <project branch="cm-13.0" name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="cm" />
   <project branch="cm-13.0" name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="cm" />
   <project branch="cm-13.0" name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="cm" />
