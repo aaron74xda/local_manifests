@@ -3,14 +3,11 @@
   <project name="Emotroid-Rom/android_device_samsung_trltexx" path="device/samsung/trltexx" remote="github" revision="nougat" />
   <project name="Emotroid-Rom/android_device_samsung_trltespr" path="device/samsung/trltespr" remote="github" revision="nougat" />
   <project name="Emotroid-Rom/android_device_samsung_trltetmo" path="device/samsung/trltetmo" remote="github" revision="nougat" />
-  <project name="Emotroid-Rom/android_device_samsung_expressltexx" path="device/samsung/expressltexx" remote="emotroid" revision="mm" />
   <remove-project name="CyanogenMod/android_external_connectivity" />
   <project name="CyanogenMod/android_external_connectivity" path="external/connectivity" remote="cm" revision="cm-13.0" />
   <project branch="nougat" name="Emotroid-Rom/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="emotroid" />
-  <project branch="nougat" name="Emotroid-Rom/android_device_samsung_expressltexx-common" path="device/samsung/expressltexx-common" remote="emotroid" />
   <project branch="nougat" name="Emotroid-Rom/proprietary_vendor_samsung" path="vendor/samsung" remote="emotroid" />
   <project branch="nougat" name="Emotroid-Rom/emotion_cm_kernel_trlte" path="kernel/samsung/trlte" remote="emotroid" />
-  <project branch="mm" name="Emotroid-Rom/android_kernel_samsung_expressltexx-common" path="kernel/samsung/expressltexx" remote="emotroid" />
   <project branch="cm-13.0" name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="cm" />
   <project branch="cm-13.0" name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="cm" />
   <project branch="cm-13.0" name="CyanogenMod/android_external_stlport" path="external/stlport" remote="cm" />
