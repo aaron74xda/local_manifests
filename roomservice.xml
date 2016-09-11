@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="Emotroid-Rom/android_device_samsung_trltexx" path="device/samsung/trltexx" remote="github" revision="mm" />
+  <project name="Emotroid-Rom/android_device_samsung_trltexx" path="device/samsung/trltexx" remote="github" revision="mm_test" />
   <project name="Emotroid-Rom/android_device_samsung_trltespr" path="device/samsung/trltespr" remote="github" revision="mm" />
   <project name="Emotroid-Rom/android_device_samsung_trltetmo" path="device/samsung/trltetmo" remote="github" revision="mm" />
   <project name="Emotroid-Rom/android_device_samsung_expressltexx" path="device/samsung/expressltexx" remote="emotroid" revision="mm" />
@@ -9,7 +9,7 @@
   <project branch="mm" name="Emotroid-Rom/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="emotroid" />
   <project branch="mm" name="Emotroid-Rom/android_device_samsung_expressltexx-common" path="device/samsung/expressltexx-common" remote="emotroid" />
   <project branch="mm" name="Emotroid-Rom/proprietary_vendor_samsung" path="vendor/samsung" remote="emotroid" />
-  <project branch="mm" name="Emotroid-Rom/emotion_cm_kernel_trlte" path="kernel/samsung/trlte" remote="emotroid" />
+  <project branch="public_test" name="Emotroid-Rom/emotion_cm_kernel_trlte" path="kernel/samsung/trlte" remote="emotroid" />
   <project branch="mm" name="Emotroid-Rom/android_kernel_samsung_expressltexx-common" path="kernel/samsung/expressltexx" remote="emotroid" />
   <project branch="cm-13.0" name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="cm" />
   <project branch="cm-13.0" name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="cm" />
