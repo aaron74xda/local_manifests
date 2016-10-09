@@ -17,6 +17,6 @@
   <project branch="cm-14.0" name="CyanogenMod/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" remote="cm" />
   <project branch="cm-14.0" name="CyanogenMod/android_device_oppo_common" path="device/oppo/common" remote="cm" />
   <project branch="nougat" name="Emotroid-Rom/android_kernel_oneplus_msm8996" path="kernel/oneplus/msm8996" remote="emotroid" />
-  <project branch="cm-14.0" name="Emotroid-Rom/android_device_qcom_common" path="device/qcom/common" remote="cm" />
+  <project branch="cm-14.0" name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="cm" />
   <project branch="nougat" name="Emotroid-Rom/proprietary_vendor_oneplus" path="vendor/oneplus" remote="emotroid" />
 </manifest>
