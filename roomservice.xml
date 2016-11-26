@@ -20,4 +20,7 @@
   <project name="Emotroid-Rom/proprietary_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="emotroid" revision="nougat" />
   <project name="Emotroid-Rom/proprietary_vendor_oneplus" path="vendor/oneplus" remote="emotroid" revision="nougat" />
   <project name="Emotroid-Rom/android_device_qcom_common" path="device/qcom/common" remote="emotroid" revision="nougat" />
+  <project name="Emotroid-Rom/android_device_moto_shamu" path="device/moto/shamu" remote="emotroid" revision="nougat" />
+  <project name="Emotroid-Rom/android_kernel_moto_shamu" path="kernel/moto/shamu" remote="emotroid" revision="nougat" />
+  <project name="Emotroid-Rom/proprietary_vendor_motorola" path="vendor/motorola" remote="emotroid" revision="nougat" />
 </manifest>
