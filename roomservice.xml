@@ -3,18 +3,18 @@
   <project name="EmotionOS/android_device_samsung_trltexx" path="device/samsung/trltexx" remote="emotion" revision="nougat" />
   <project name="EmotionOS/android_device_samsung_trltespr" path="device/samsung/trltespr" remote="emotion" revision="nougat" />
   <project name="EmotionOS/android_device_samsung_trltetmo" path="device/samsung/trltetmo" remote="emotion" revision="nougat" />
-  <remove-project name="CyanogenMod/android_external_connectivity" />
-  <project name="CyanogenMod/android_external_connectivity" path="external/connectivity" remote="cm" revision="cm-14.1" />
+  <remove-project name="LineageOS/android_external_connectivity" />
+  <project name="LineageOS/android_external_connectivity" path="external/connectivity" remote="cm" revision="cm-14.1" />
   <project branch="nougat" name="EmotionOS/proprietary_vendor_samsung" path="vendor/samsung" remote="emotion" />
-  <project branch="cm-14.1" name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="cm" />
-  <project branch="cm-14.1" name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="cm" />
-  <project branch="cm-14.1" name="CyanogenMod/android_external_stlport" path="external/stlport" remote="cm" />
+  <project branch="cm-14.1" name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="cm" />
+  <project branch="cm-14.1" name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="cm" />
+  <project branch="cm-14.1" name="LineageOS/android_external_stlport" path="external/stlport" remote="cm" />
   <project branch="nougat" name="EmotionOS/android_device_oneplus_oneplus3" path="device/oneplus/oneplus3" remote="emotion" />
   <project name="EmotionOS/android_device_oppo_common" path="device/oppo/common" remote="emotion" revision="nougat" />
   <project name="EmotionOS/android_kernel_oneplus_msm8996" path="kernel/oneplus/msm8996" remote="emotion" revision="nougat" />
-  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" remote="cm" revision="cm-14.1" />
-  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="cm" revision="cm-14.1" />
-  <project name="CyanogenMod/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" remote="cm" revision="cm-14.1" />
+  <project name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" remote="cm" revision="cm-14.1" />
+  <project name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="cm" revision="cm-14.1" />
+  <project name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" remote="cm" revision="cm-14.1" />
   <project name="EmotionOS/proprietary_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="emotion" revision="nougat" />
   <project name="EmotionOS/proprietary_vendor_oneplus" path="vendor/oneplus" remote="emotion" revision="nougat" />
   <project name="EmotionOS/android_device_qcom_common" path="device/qcom/common" remote="emotion" revision="nougat" />
