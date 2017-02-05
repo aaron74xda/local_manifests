@@ -22,5 +22,5 @@
   <project name="EmotionOS/android_kernel_moto_shamu" path="kernel/moto/shamu" remote="emotion" revision="nougat" />
   <project name="EmotionOS/proprietary_vendor_motorola" path="vendor/motorola" remote="emotion" revision="nougat" />
   <project name="EmotionOS/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="emotion" revision="nougat" />
-  <project name="EmotionOS/emotion_cm_kernel_trlte" path="kernel/samsung/trlte" remote="emotion" revision="nougat" />
+  <project name="EmotionOS/android_kernel_samsung_trlte" path="kernel/samsung/trlte" remote="emotion" revision="nougat" />
 </manifest>
